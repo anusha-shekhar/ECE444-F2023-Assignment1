@@ -9,3 +9,6 @@
 ## Activity 2: Branching and merging
 - A branch named "develop" was created
 - The file "helloworld.py" in this repository prints "Hello World" to the terminal
+
+## Activity 5: making commits for rebasing
+- Edit c3
