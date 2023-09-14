@@ -22,3 +22,10 @@
 - A screenshot of the successful merge is provided below
   
 ![activity 3.3: include image of successful merge on GitHub](./images/successful_merge.png)
+
+## Activity 4: Unit test
+- The utlis class has been created in utils.py with functions named reversed and formatter
+- A screenshot of the sucessful commit is provided below:
+![activity 4.1: include image of commit](./images/utils_commit.png)
+- A test_utils class has been created in utils_test.py with unit tests 
+![activity 4.2: include image of commit](./images/utils_test_commit.png)
