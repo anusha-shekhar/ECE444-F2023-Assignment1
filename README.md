@@ -14,3 +14,4 @@
 - Edit c3
 - Edit c4 includes image of commit c3:
 ![activity 5.4: include image of commit c3](./images/commit_c3.png)
+- Fixed merge conflicts when pushing develop branch after rebasing
