@@ -13,3 +13,7 @@
 - A screenshot of the output of the merge command is provided below
 
 ![activity 2.2: include image of merge branch output on GitHub](./images/merge_output.png)
+
+## Activity 3: Issues, pull requests and merge conflicts
+- An issue has been created about adding how many years I have been at UofT
+- "helloworld.py" now prints my name as well
