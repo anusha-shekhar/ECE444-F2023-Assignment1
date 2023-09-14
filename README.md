@@ -16,4 +16,9 @@
 
 ## Activity 3: Issues, pull requests and merge conflicts
 - An issue has been created about adding how many years I have been at UofT
-- "helloworld.py" now prints my name as well
+- On the main branch, "helloworld.py" now prints my name
+- On the develop branch, "helloworld.py" now prints the number of years I have been at UofT
+- A pull request was created, the issue created above was linked, and the merge conflicts were resolved
+- A screenshot of the successful merge is provided below
+  
+![activity 3.3: include image of successful merge on GitHub](./images/successful_merge.png)
